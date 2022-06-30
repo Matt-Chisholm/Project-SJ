@@ -2,5 +2,16 @@
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    align-items: baseline;
+    align-items: flex-end;
+    background-color: #002349;
+    position: fixed;
+    top: 0;
+    width: 100%;
 }
+
+.navbar h1 {
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 150;
+}
+

@@ -10,6 +10,7 @@ export default function Nav() {
         <h1>Selling</h1>
         <h1>About</h1>
         <h1>Contact</h1>
+        <img src='https://victoriabcluxuryhomes.com/_media/Images/top-logo.jpg' />
     </div>
   )
 }
