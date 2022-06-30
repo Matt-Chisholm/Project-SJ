@@ -1,7 +1,15 @@
-import React from 'react'
+import React from 'react';
+import '../style/Nav.css';
 
 export default function Nav() {
   return (
-    <div>Nav</div>
+    <div className='navbar'>
+        <h1>Home</h1>
+        <h1>Listings</h1>
+        <h1>Buying</h1>
+        <h1>Selling</h1>
+        <h1>About</h1>
+        <h1>Contact</h1>
+    </div>
   )
 }
