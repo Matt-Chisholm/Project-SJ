@@ -1,3 +1,24 @@
 .search-container {
     margin-top: 10em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #002349;
+    font-family: 'Times New Roman', Times, serif;
+    justify-content: space-around;
 }
+
+.search-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.search-form dropdown {
+    width: 60%;
+}
+
+.city-input {
+    size: 20;
+    font-size: 1.2em;
+}
+
