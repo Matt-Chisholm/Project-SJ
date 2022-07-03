@@ -7,6 +7,7 @@
     position: fixed;
     top: 0;
     width: 100%;
+    overflow: hidden;
 }
 
 .navbar h1 {
@@ -14,4 +15,5 @@
     font-family: 'Times New Roman', Times, serif;
     font-weight: 150;
 }
+
 
