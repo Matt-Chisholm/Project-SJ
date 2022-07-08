@@ -1,6 +1,7 @@
 import React from 'react';
 import Nav from './Nav';
 import SearchForm from './SearchForm';
+import About from './About';
 
 
 export default function App() {
@@ -8,6 +9,7 @@ export default function App() {
     <div>
         <Nav />
         <SearchForm />
+        <About />
     </div>
   )
 }
