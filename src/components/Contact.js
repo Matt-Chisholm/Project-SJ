@@ -2,6 +2,9 @@ import React from 'react'
 
 export default function Contact() {
   return (
-    <div>Contact</div>
+    <div>
+      <h2>Contact Samantha:</h2>
+      
+    </div>
   )
 }
